@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'dirty_headlineregular';
+    src: url('fonts/dirty-headline/dirty_headline-webfont.eot');
+    src: url('fonts/dirty-headline/dirty_headline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dirty-headline/dirty_headline-webfont.woff2') format('woff2'),
+         url('fonts/dirty-headline/dirty_headline-webfont.woff') format('woff'),
+         url('fonts/dirty-headline/dirty_headline-webfont.ttf') format('truetype'),
+         url('fonts/dirty-headline/dirty_headline-webfont.svg#dirty_headlineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
